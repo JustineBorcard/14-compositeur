@@ -50,8 +50,7 @@ a {
 }
 
 .portrait-hans {
-  width: 150px;
-  
+  max-width: 100%;
 }
 
 .red-text-hans {
@@ -95,8 +94,19 @@ a {
   color:#A32825;
 }
 
-.sommaire{
+.sommaire {
   text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.element {
+  font-size: 15px;
+}
+
+.element-thelma-louise {
+  color:#A32825;
 }
 
 .separation {
