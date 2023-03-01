@@ -11,8 +11,16 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-header, main, footer {
+header, main {
   margin: 20px;
+}
+
+header {
+  margin-bottom: 50px;
+}
+
+nav {
+  margin-top: 50px;
 }
 
 img {
@@ -21,16 +29,20 @@ img {
   
 }
 
-h1, h2 {
-  color: #A32825;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
 h1 {
   text-align: center;
   font-size: 60px;
 }
 
+.h2-footer{
+  text-align: center;
+  margin-top: px;
+}
+
+h1, h2 {
+  color: #A32825;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 a {
   color: black;
@@ -83,7 +95,36 @@ a {
   color:#A32825;
 }
 
+.sommaire{
+  text-align: center;
+}
+
 .separation {
   margin: 60px;
   border: 1px solid;
 }
+
+.div-hans {
+  margin-bottom: 50px;
+}
+
+.div-thunderbird {
+  margin-bottom: 50px;
+}
+
+.instagram {
+  font-size: 30px;
+  text-align: center;
+}
+
+.mail {
+  font-size: 30px;
+  text-align: center;
+}
+
+footer{
+  background-image: url(../img/studio_1980.png);
+  background-size: cover;
+  height: 230px;
+}
+
