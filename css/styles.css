@@ -7,7 +7,7 @@ body {
   max-width: 400px;
   margin: auto;
   text-align: left;
-  border: 1px solid;
+  border: 2px solid;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -31,9 +31,6 @@ h1 {
   font-size: 60px;
 }
 
-hr{
-  margin: 50;
-}
 
 a {
   color: black;
@@ -62,3 +59,31 @@ a {
   color:#A32825;
 }
 
+.legende-ridley-scott {
+  color:#A32825;
+}
+
+.titre-films-populaires {
+  color:#A32825;
+}
+
+.alien {
+  color:#A32825;
+}
+
+.blade-runner {
+  color:#A32825;
+}
+
+.texte-thelma-louise {
+  color:#A32825;
+}
+
+.texte-thelma-louise-2 {
+  color:#A32825;
+}
+
+.separation {
+  margin: 60px;
+  border: 1px solid;
+}
