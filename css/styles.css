@@ -1,10 +1,64 @@
+html {
+  scroll-behavior: smooth;
+  color:black;
+}
+
 body {
-  max-width: 320px;
+  max-width: 400px;
   margin: auto;
-  background: #ddd;
+  text-align: left;
+  border: 1px solid;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header, main, footer {
+  margin: 20px;
 }
 
 img {
-  display: block;
   max-width: 100%;
+  text-align: center;
+  
 }
+
+h1, h2 {
+  color: #A32825;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+hr{
+  margin: 50;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.portrait-hans {
+  width: 150px;
+  
+}
+
+.red-text-hans {
+  color:#A32825;
+}
+
+.red-text-hans-2 {
+  color:#A32825;
+}
+
+.legende-koury-angelo {
+  color:#A32825;
+  font-size: 10px;
+}
+
+.legende-coachella {
+  color:#A32825;
+}
+
