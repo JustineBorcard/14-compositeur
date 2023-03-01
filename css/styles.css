@@ -54,10 +54,13 @@ a {
 
 .red-text-hans {
   color:#A32825;
+  margin-bottom: 30px;
 }
 
 .red-text-hans-2 {
   color:#A32825;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .legende-koury-angelo {
@@ -72,10 +75,23 @@ a {
   text-align: right;
 }
 
-.legende-ridley-scott {
-  color:#A32825;
+.legende-studio {
   font-size: 10px;
   text-align: right;
+}
+
+.legende-ridley-scott {
+  font-size: 10px;
+  text-align: right;
+}
+
+.legende-thelma-louise {
+  font-size: 10px;
+  text-align: right;
+}
+
+.texte-ridley {
+  margin-bottom: 30px;
 }
 
 .titre-films-populaires {
@@ -96,6 +112,11 @@ a {
 
 .texte-thelma-louise-2 {
   color:#A32825;
+  margin-bottom: 30px;
+}
+
+.texte-thunderbird {
+  margin-bottom: 60px;
 }
 
 .sommaire {
@@ -118,35 +139,16 @@ a {
   border: 1px solid;
 }
 
-.div-hans {
-  margin-bottom: 50px;
+.div {
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
-.div-ridley {
-  margin-bottom: 50px;
-}
-
-.div-thelma-louise {
-  margin-top: 50px;
-}
-
-.div-thunderbird {
-  margin-bottom: 50px;
-}
-
-.instagram {
-  font-size: 30px;
-  text-align: center;
-}
-
-.mail {
-  font-size: 30px;
-  text-align: center;
-}
-
-footer{
+footer {
   background-image: url(../img/studio_1980.png);
   background-size: cover;
   height: 230px;
+  text-align: center;
+  font-size: 25px;
 }
 
